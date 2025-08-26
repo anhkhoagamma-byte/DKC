@@ -1,0 +1,5 @@
+{
+  "name": "Image to Text",
+  "description": "Prompt Gemini in this simple example",
+  "requestFramePermissions": []
+}
